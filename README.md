@@ -50,7 +50,7 @@ composer install
 ```
 2) Миграции
 ```bash
-   php artisan migrate
+php artisan migrate
 ```
 ## Использование (сервис)
 
